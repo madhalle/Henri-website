@@ -6,7 +6,7 @@ image: images/@stock/blog-10.jpg
 excerpt:
   Dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
 categories:
-  - Web Development
+  - Landscapes
 tags: design business
 author: honryou
 ---
