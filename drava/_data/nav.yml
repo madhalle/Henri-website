@@ -1,5 +1,5 @@
 - name: Home
-  path: portfolio.html
+  path: photos.html
   section_id: home
 - name: About
   path: about.html
@@ -8,11 +8,11 @@
   path: services.html
   section_id: services
 - name: Portfolio
-  path: portfolio.html
+  path: photos.html
   section_id: portfolio
   children:
     - name: Portfolio
-      path: portfolio.html
+      path: photos.html
     - name: Portfolio item
       path: portfolio-item.html
 - name: Contact
