@@ -179,6 +179,23 @@
     </ul>
   </div>
   <ul class='gallery'>
+    $dirname = "images/bangers/landscapes/";
+    $images = glob($dirname."*.jpg");
+
+    foreach($images as $image) {
+    echo '<li class='landscapes'>
+            <a href='portfolio-item.html'>
+              <img src="'.$image.'" />
+              <!-- <img alt="" src="images/bangers/landscapes/1landscape.jpg" /> -->
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <!-- <h3>Beautiful Girl</h3>
+                  <p>Design &amp; Development</p> -->
+                </div>
+              </div>
+            </a>
+          </li>';
+          }
 
       <li class='landscapes'>
         <a href='portfolio-item.html'>
